@@ -7,7 +7,7 @@ import (
 
 	"github.com/Bayu200720/microservices/menu-service/handler"
 	"github.com/gorilla/mux"
-	// "github.com/wskurniawan/intro-microservice/auth/handler"
+	"github.com/wskurniawan/intro-microservice/auth/handler"
 )
 
 func main() {
